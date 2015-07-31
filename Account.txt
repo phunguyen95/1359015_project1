@@ -1,0 +1,8 @@
+Account Information:
+Admin account: 
+Username: admin
+Password: 123456
+
+User Account
+Username: tester2015
+Password: sunshine
