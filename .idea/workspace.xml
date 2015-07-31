@@ -26,19 +26,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="20.884615">
-              <caret line="141" column="33" selection-start-line="141" selection-start-column="33" selection-end-line="141" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.7037037">
+              <caret line="392" column="22" selection-start-line="392" selection-start-column="22" selection-end-line="392" selection-end-column="22" />
               <folding>
-                <marker date="1438082849933" expanded="true" signature="4229:4424" placeholder="..." />
-                <marker date="1438082849933" expanded="true" signature="4235:4248" placeholder="/*...*/" />
-                <marker date="1438082849933" expanded="true" signature="4288:4333" placeholder="/*...*/" />
-                <marker date="1438082849933" expanded="true" signature="4338:4374" placeholder="/*...*/" />
-                <marker date="1438082849933" expanded="true" signature="4379:4413" placeholder="/*...*/" />
-                <marker date="1438082849933" expanded="true" signature="12192:12240" placeholder="select * fro..product..." />
+                <marker date="1438307520117" expanded="true" signature="4229:4424" placeholder="..." />
+                <marker date="1438307520117" expanded="true" signature="4235:4248" placeholder="/*...*/" />
+                <marker date="1438307520117" expanded="true" signature="4288:4333" placeholder="/*...*/" />
+                <marker date="1438307520117" expanded="true" signature="4338:4374" placeholder="/*...*/" />
+                <marker date="1438307520117" expanded="true" signature="4379:4413" placeholder="/*...*/" />
+                <marker date="1438307520117" expanded="true" signature="12192:12240" placeholder="select * fro..product..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Men.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/Men.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.4">
+              <caret line="318" column="71" selection-start-line="318" selection-start-column="37" selection-end-line="318" selection-end-column="71" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuyProcess.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BuyProcess.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/servlet/BuyProcess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.024495678">
+            <state vertical-scroll-proportion="0.0">
               <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="details.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/details.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.115385">
+              <caret line="131" column="50" selection-start-line="131" selection-start-column="50" selection-end-line="131" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -113,68 +133,6 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mostviewd.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/mostviewd.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding>
-                <marker date="1435237547335" expanded="true" signature="3368:3416" placeholder="select * fro..product..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClothesDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mypackage/ClothesDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="722" column="5" selection-start-line="722" selection-start-column="5" selection-end-line="722" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1435244055056" expanded="true" signature="1166:1188" placeholder="select * fro..category..." />
-                <marker date="1435244055056" expanded="true" signature="2177:2220" placeholder="select * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="3458:3553" placeholder="select *, SU..receiptdetail..." />
-                <marker date="1435244055056" expanded="true" signature="4952:5001" placeholder="select * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="6431:6479" placeholder="select * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="7652:7700" placeholder="select * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="8941:8959" placeholder="select *from..brand..." />
-                <marker date="1435244055056" expanded="true" signature="9862:9883" placeholder="select *from..category..." />
-                <marker date="1435244055056" expanded="true" signature="10812:10832" placeholder="select *from..product..." />
-                <marker date="1435244055056" expanded="true" signature="11952:12015" placeholder="select SQL_C..product..." />
-                <marker date="1435244055056" expanded="true" signature="12805:12824" placeholder="SELECT FOUND..." />
-                <marker date="1435244055056" expanded="true" signature="13860:13937" placeholder="select SQL_C..product..." />
-                <marker date="1435244055056" expanded="true" signature="14619:14638" placeholder="SELECT FOUND..." />
-                <marker date="1435244055056" expanded="true" signature="15482:15578" placeholder="select SQL_C..product..." />
-                <marker date="1435244055056" expanded="true" signature="16284:16303" placeholder="SELECT FOUND..." />
-                <marker date="1435244055056" expanded="true" signature="17139:17217" placeholder="select SQL_C..product..." />
-                <marker date="1435244055056" expanded="true" signature="17900:17919" placeholder="SELECT FOUND..." />
-                <marker date="1435244055056" expanded="true" signature="18667:18698" placeholder="select *from..product..." />
-                <marker date="1435244055056" expanded="true" signature="19735:19766" placeholder="select *from..product..." />
-                <marker date="1435244055056" expanded="true" signature="20967:21116" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="21269:21418" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="21562:21707" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="21817:21953" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="22088:22206" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="22341:22459" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="22594:22712" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="22858:22925" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="23074:23141" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="23287:23354" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="23442:23547" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="23632:23685" placeholder="select *from..product..." />
-                <marker date="1435244055056" expanded="true" signature="23792:23829" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="23939:23976" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="24086:24123" placeholder="SELECT * fro..product..." />
-                <marker date="1435244055056" expanded="true" signature="24175:24195" placeholder="select *from..product..." />
-                <marker date="1435244055056" expanded="true" signature="25779:25856" placeholder="update produ..." />
-                <marker date="1435244055056" expanded="true" signature="26814:26850" placeholder="update produ..." />
-                <marker date="1435244055056" expanded="true" signature="27690:27754" placeholder="update produ..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -425,7 +383,7 @@
     <property name="project.structure.proportion" value="0.16308594" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1359024-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
@@ -1444,11 +1402,12 @@
       <workItem from="1438081601437" duration="3313000" />
       <workItem from="1438136891763" duration="26000" />
       <workItem from="1438136993363" duration="70000" />
+      <workItem from="1438306238950" duration="1440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="713458000" />
+    <option name="totallyTimeSpent" value="714898000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1465,13 +1424,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714286" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24071527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24071527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23694268" sideWeight="0.8424015" order="4" side_tool="false" content_ui="combo" />
@@ -1486,7 +1446,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714286" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32966322" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714286" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1844,13 +1803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/details.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.25">
-          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/listorder.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.766667">
@@ -1926,15 +1878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Men.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="121" column="4" selection-start-line="93" selection-start-column="3" selection-end-line="121" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1943,7 +1886,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
-            <marker date="1435237547335" expanded="true" signature="3368:3416" placeholder="select * fro..product..." />
+            <marker date="1435237547335" expanded="true" signature="-1:-1" placeholder="select * fro..product..." />
           </folding>
         </state>
       </provider>
@@ -1954,44 +1897,44 @@
           <caret line="722" column="5" selection-start-line="722" selection-start-column="5" selection-end-line="722" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1435244055056" expanded="true" signature="1166:1188" placeholder="select * fro..category..." />
-            <marker date="1435244055056" expanded="true" signature="2177:2220" placeholder="select * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="3458:3553" placeholder="select *, SU..receiptdetail..." />
-            <marker date="1435244055056" expanded="true" signature="4952:5001" placeholder="select * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="6431:6479" placeholder="select * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="7652:7700" placeholder="select * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="8941:8959" placeholder="select *from..brand..." />
-            <marker date="1435244055056" expanded="true" signature="9862:9883" placeholder="select *from..category..." />
-            <marker date="1435244055056" expanded="true" signature="10812:10832" placeholder="select *from..product..." />
-            <marker date="1435244055056" expanded="true" signature="11952:12015" placeholder="select SQL_C..product..." />
-            <marker date="1435244055056" expanded="true" signature="12805:12824" placeholder="SELECT FOUND..." />
-            <marker date="1435244055056" expanded="true" signature="13860:13937" placeholder="select SQL_C..product..." />
-            <marker date="1435244055056" expanded="true" signature="14619:14638" placeholder="SELECT FOUND..." />
-            <marker date="1435244055056" expanded="true" signature="15482:15578" placeholder="select SQL_C..product..." />
-            <marker date="1435244055056" expanded="true" signature="16284:16303" placeholder="SELECT FOUND..." />
-            <marker date="1435244055056" expanded="true" signature="17139:17217" placeholder="select SQL_C..product..." />
-            <marker date="1435244055056" expanded="true" signature="17900:17919" placeholder="SELECT FOUND..." />
-            <marker date="1435244055056" expanded="true" signature="18667:18698" placeholder="select *from..product..." />
-            <marker date="1435244055056" expanded="true" signature="19735:19766" placeholder="select *from..product..." />
-            <marker date="1435244055056" expanded="true" signature="20967:21116" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="21269:21418" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="21562:21707" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="21817:21953" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="22088:22206" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="22341:22459" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="22594:22712" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="22858:22925" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="23074:23141" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="23287:23354" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="23442:23547" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="23632:23685" placeholder="select *from..product..." />
-            <marker date="1435244055056" expanded="true" signature="23792:23829" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="23939:23976" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="24086:24123" placeholder="SELECT * fro..product..." />
-            <marker date="1435244055056" expanded="true" signature="24175:24195" placeholder="select *from..product..." />
-            <marker date="1435244055056" expanded="true" signature="25779:25856" placeholder="update produ..." />
-            <marker date="1435244055056" expanded="true" signature="26814:26850" placeholder="update produ..." />
-            <marker date="1435244055056" expanded="true" signature="27690:27754" placeholder="update produ..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select * fro..category..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select *, SU..receiptdetail..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select *from..brand..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select *from..category..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select *from..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select SQL_C..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT FOUND..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select SQL_C..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT FOUND..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select SQL_C..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT FOUND..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select SQL_C..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT FOUND..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select *from..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select *from..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select *from..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="SELECT * fro..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="select *from..product..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="update produ..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="update produ..." />
+            <marker date="1435244055056" expanded="true" signature="-1:-1" placeholder="update produ..." />
           </folding>
         </state>
       </provider>
@@ -2040,21 +1983,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="20.884615">
-          <caret line="141" column="33" selection-start-line="141" selection-start-column="33" selection-end-line="141" selection-end-column="33" />
-          <folding>
-            <marker date="1438082849933" expanded="true" signature="4229:4424" placeholder="..." />
-            <marker date="1438082849933" expanded="true" signature="4235:4248" placeholder="/*...*/" />
-            <marker date="1438082849933" expanded="true" signature="4288:4333" placeholder="/*...*/" />
-            <marker date="1438082849933" expanded="true" signature="4338:4374" placeholder="/*...*/" />
-            <marker date="1438082849933" expanded="true" signature="4379:4413" placeholder="/*...*/" />
-            <marker date="1438082849933" expanded="true" signature="12192:12240" placeholder="select * fro..product..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../1359024-project/1359024-project.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2065,9 +1993,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/servlet/BuyProcess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.024495678">
+        <state vertical-scroll-proportion="0.0">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/details.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385">
+          <caret line="131" column="50" selection-start-line="131" selection-start-column="50" selection-end-line="131" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Men.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4">
+          <caret line="318" column="71" selection-start-line="318" selection-start-column="37" selection-end-line="318" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7037037">
+          <caret line="392" column="22" selection-start-line="392" selection-start-column="22" selection-end-line="392" selection-end-column="22" />
+          <folding>
+            <marker date="1438307520117" expanded="true" signature="4229:4424" placeholder="..." />
+            <marker date="1438307520117" expanded="true" signature="4235:4248" placeholder="/*...*/" />
+            <marker date="1438307520117" expanded="true" signature="4288:4333" placeholder="/*...*/" />
+            <marker date="1438307520117" expanded="true" signature="4338:4374" placeholder="/*...*/" />
+            <marker date="1438307520117" expanded="true" signature="4379:4413" placeholder="/*...*/" />
+            <marker date="1438307520117" expanded="true" signature="12192:12240" placeholder="select * fro..product..." />
+          </folding>
         </state>
       </provider>
     </entry>

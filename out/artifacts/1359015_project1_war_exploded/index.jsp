@@ -379,26 +379,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
       <div class="col-md-7">
         <c:forEach items="${newest}" var="c">
 
-        <div class="section group">
+          <div class="section group">
 
-          <div class="col_1_of_3 span_1_of_3">
-            <div class="shop-holder">
-              <div class="product-img">
+            <div class="col_1_of_3 span_1_of_3">
+              <div class="shop-holder">
+                <a href="GetId?name=${c.id}">
+                <div class="product-img">
 
-                <a href="details.jsp">
 
-                  <img width="225" height="265" src="img/${c.picture}" class="img-responsive"  alt="item4"> </a>
-                <a href="" class="button "></a>	 </div>
+
+                    <img width="225" height="265" src="img/${c.picture}" class="img-responsive"  alt="item4">
+                  </div>
+                  </a>
+              </div>
+
+
+              <div class="shop-content" style="height: 80px;">
+
+                <h5> ><a href="GetId?name=${c.id}">${c.name}</a></h5>
+                  ${c.price}
+              </div>
             </div>
-
-
-            <div class="shop-content" style="height: 80px;">
-
-         <h5> <a href="details.jsp"> ${c.name}</a></h5>
-            ${c.price}$
-
-            </div>
-          </div>
 
           </div>
         </c:forEach>
